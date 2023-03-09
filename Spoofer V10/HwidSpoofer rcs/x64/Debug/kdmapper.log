@@ -1,0 +1,10 @@
+﻿  intel_driver.cpp
+  main.cpp
+  kdmapper.cpp
+  service.cpp
+  utils.cpp
+c1xx : fatal  error C1083: Não é possível abrir arquivo fonte: 'kdmapper.cpp': No such file or directory
+C:\Users\pc\Desktop\Full-Hwid-Spoofer-V10-main\Spoofer V10\HwidSpoofer rcs\intel_driver.cpp(1,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'intel_driver.hpp': No such file or directory
+C:\Users\pc\Desktop\Full-Hwid-Spoofer-V10-main\Spoofer V10\HwidSpoofer rcs\utils.hpp(10,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'nt.hpp': No such file or directory (compilando arquivo de origem utils.cpp)
+C:\Users\pc\Desktop\Full-Hwid-Spoofer-V10-main\Spoofer V10\HwidSpoofer rcs\main.cpp(8,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'kdmapper.hpp': No such file or directory
+C:\Users\pc\Desktop\Full-Hwid-Spoofer-V10-main\Spoofer V10\HwidSpoofer rcs\service.hpp(5,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'intel_driver.hpp': No such file or directory (compilando arquivo de origem service.cpp)
